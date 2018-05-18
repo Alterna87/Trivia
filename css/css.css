@@ -1,0 +1,117 @@
+head {
+background-color: #BDBDBD;
+
+}
+
+body   {
+/*background-color: #BDBDBD;*/
+background-image: url("../img/foco.jpg");
+background-position: center center;
+background-repeat: no-repeat;
+background-size: auto;
+background-attachment: fixed;
+}
+header {
+  height: 5px;
+}
+
+#cursos {
+  margin-left: 39px;
+}
+
+#title {
+  display: inline-block;
+}
+#title h1 {
+  color: #000000;
+    font-family: 'Rock Salt', cursive;
+    font-size: 34px;
+    margin-left: 570px;
+    display: inline-block;
+    text-align: center;
+  /* border-radius: 20px; */
+  /* border-style: solid; */
+}
+
+#name {
+/*  display: inline-block;
+  width: 733px;*/
+
+}
+#name p {
+  color: #ffce44;
+  margin-right: 75px;
+  text-align: right;
+  font-family: 'Gochi Hand', cursive;
+  font-size: 22px;;
+}
+
+#cancel {
+    display: block;
+    margin: auto;
+    border: 0.5px solid #b9a8ad;
+    width: 600px;
+    height: 154px;
+    padding: 50px 40px;
+
+
+}
+
+#result {
+  height: 40vh;
+}
+#cancel p {
+  color: #DF01D7;
+      font-size: 40px;
+      font-style: oblique;
+      text-align: center;
+      font-family: fantasy;
+}
+
+#titleCorrect {
+display: inline-block;
+color: green;
+font-family: 'Luckiest Guy', cursive;
+font-size: 30px;
+  margin-left: 406px;
+}
+
+#titleIncorrect {
+display: inline-block;
+color: red;
+font-family: 'Luckiest Guy', cursive;
+font-size: 30px;
+margin-left:216px;
+
+
+}
+
+#correct {
+display: inline-block;
+  width: 376px;
+/*height: 400px; */
+margin-left: 376px;
+
+}
+#correct p {
+  color: black;
+ font-family: 'Neucha', cursive;
+  font-size: 22px;
+  line-height: 1.6;
+}
+
+
+#incorrect {
+display: inline-block;
+width: 376px;
+/*height: 400px; */
+/*margin-right: 37px; */
+
+}
+
+#incorrect p {
+  color: black;
+  font-family: 'Neucha', cursive;
+  font-size: 22px;
+  line-height: 1.6;
+}
